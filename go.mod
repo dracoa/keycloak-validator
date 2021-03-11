@@ -1,1 +1,1 @@
-module "keycloak-validator"
+module github.com/dracoa/keycloak-validator
