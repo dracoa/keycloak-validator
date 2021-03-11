@@ -1,0 +1,1 @@
+module "keycloak-validator"
